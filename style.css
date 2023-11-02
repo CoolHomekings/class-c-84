@@ -1,0 +1,15 @@
+h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+input{
+    margin: 10px;
+
+}
+#display_name{
+    font-weight: bold;
+}
+#submit_btn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
